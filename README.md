@@ -44,7 +44,7 @@ Image(image_content, height=500, width=500)
 
 
     
-![png](/output/output_1_1.png)
+![png](/sample images/output_1_1.png)
     
 
 
@@ -81,7 +81,7 @@ Image(image_content, height=300, width=300)
 
 
     
-![png](/output/output_5_0.png)
+![png](/sample images/output_5_0.png)
     
 
 
@@ -102,7 +102,7 @@ Image(image_content, height=300, width=300)
 
 
     
-![png](/output/output_6_0.png)
+![png](/sample images/output_6_0.png)
     
 
 
@@ -123,7 +123,7 @@ Image(image_content, height=300, width=300)
 
 
     
-![png](/output/output_7_0.png)
+![png](/sample images/output_7_0.png)
     
 
 
